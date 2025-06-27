@@ -1,0 +1,118 @@
+0% Master 
+    Details :
+        Business - Consultant Agency 
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $400
+        Additions - Logo Design
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = kelz-home.png
+        About Page = kelz-about.png
+        Contact Page = kelz-contact.png
+
+David Pomeranz
+    Details :
+        Business - Lawyer 
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $400
+        Additions - Logo Design
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = dave-home.png
+        About Page = dave-about.png
+        Contact Page = dave-contact.png
+
+
+Keller Willias La Jolla
+    Details :
+        Business - Real Estate Agency
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $750
+        Additions - Logo Design , SEO Enhancment, 
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = kw-home.png
+        Team Page = kw-team.png
+        Client Page = kw-client.png
+        Agent Page = kw-agent.png
+
+
+Mike Allnabulsi
+    Details :
+        Business - Lawyer
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding , Multi Language
+        Time Spent - 1 Day
+        Budget - $400
+        Additions - Logo Design , SEO Enhancment, 
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = mike-home.png
+        Other Language Page = mike-lang.png
+
+Nahrin
+    Details :
+        Business - Resturant
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $500
+        Additions - Logo Design , SEO , DoorDash Integration
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = nahrin-home.png
+        About Page = nahrin-about.png
+        Location Page = nahrin-location.png
+        Menu Page = nahrin-menu.png
+
+
+Shooters 
+    Details :
+        Business - Record Label
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $500
+        Additions - Logo Design , SEO , Booking Integration
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = shooters-home.png
+        Info Page = shooters-info.png
+        Producers Page = shooters-producers.png
+        
+Zakhour Law 
+    Details :
+        Business - Lawyer
+        Enhanced - Layout , Design , Logo , Color Scheme , Branding
+        Time Spent - 1 Day
+        Budget - $400
+        Additions - Logo Design , SEO Enhancment
+        Service Type - Website Revamp
+
+    Images :
+        Home Page = zakhour-home.png
+        About Page = zakhour-about.png
+        Contact Page = zakhour-contact.png
+        Practice Area Page = zakhour-PA.png
+        Practice Area Details Page = zakhour-PA-details.png
+        
+
+
+
+https://nahrin.vercel.app/ | Nahrin
+https://0-mastery.vercel.app/ | 0% Mastery
+https://allnabulsi-law.vercel.app/ | Allnabulsi Law
+https://david-pomeranz.vercel.app/ | David Pomeranz
+https://zakhour-law.vercel.app/ | Zakhour Law
+https://keller-williams-la-jolla.vercel.app/ | Keller Williams La Jolla
+https://shooters.vercel.app/ | Shooters
+
+
+When i goto the login page i want to remove the header and footer , also there is no register page. Instead of Welcome Back it should be like 
+Client Portal , there is no or login with options and there is no register , instead it should be a return to home button and i want a different background image 
