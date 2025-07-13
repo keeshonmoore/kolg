@@ -33,7 +33,7 @@ function Footer() {
               <h3 className="footer-heading">Contact Us</h3>
               <ul className="space-y-2 text-secondary">
                 <li><a href="mailto:info@kolg.live" className="footer-link">info@kolg.com</a></li>
-                <li><a href="tel:+18778121288" className="footer-link">+1-555-123-4567</a></li>
+                <li><a href="tel:+18778121288" className="footer-link">+1-928-433-7540 </a></li>
               </ul>
             </div>
   
